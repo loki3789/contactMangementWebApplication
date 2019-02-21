@@ -1,7 +1,7 @@
 <?php  
 
-//require_once(realpath($_SERVER["DOCUMENT_ROOT"]).'\contactManagement\app\models\Database.php');
-require_once('..\app\models\Database.php');
+require_once(realpath($_SERVER["DOCUMENT_ROOT"]).'\contactManagement\app\models\Database.php');
+
 class contactsController 
 {
     
